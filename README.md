@@ -11,6 +11,10 @@
 
 ---         
 
+## API        
+'Boxes' Endpoint: [http://simplestrips.com/api/wp-json/wp/v2/boxes](http://simplestrips.com/api/wp-json/wp/v2/boxes)          
+
+
 ## Properties         
 
 **Expiration**     
